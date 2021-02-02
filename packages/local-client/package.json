@@ -1,7 +1,6 @@
 {
   "name": "@jsnote-tsg/local-client",
   "version": "1.0.0",
-  "bin": "dist/index.js",
   "publishConfig": {
     "access": "public"
   },
